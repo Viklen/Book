@@ -1,0 +1,104 @@
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\obj\Debug\WebUi.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\WebUi.dll.config
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\WebUi.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\WebUi.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\Castle.Core.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\Domain.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\Moq.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\Ninject.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\Ninject.Web.Common.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\Ninject.Web.Mvc.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\System.Web.Helpers.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\System.Web.Mvc.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\System.Web.Razor.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\System.Web.WebPages.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\WebActivatorEx.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\Domain.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\Castle.Core.xml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\Moq.xml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\Ninject.xml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\Ninject.Web.Common.xml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\Ninject.Web.Mvc.xml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\System.Web.Helpers.xml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\System.Web.Mvc.xml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\System.Web.Razor.xml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\System.Web.WebPages.xml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\obj\Debug\WebUi.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop\WebUi\obj\Debug\WebUi.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\obj\Debug\WebUi.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\obj\Debug\WebUi.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\WebUi.dll.config
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\WebUi.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\WebUi.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\Castle.Core.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\Domain.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\Moq.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\Ninject.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\Ninject.Web.Common.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\Ninject.Web.Mvc.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\System.Web.Helpers.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\System.Web.Mvc.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\System.Web.Razor.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\System.Web.WebPages.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\WebActivatorEx.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\Domain.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\Castle.Core.xml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\Moq.xml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\Ninject.xml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\Ninject.Web.Common.xml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\Ninject.Web.Mvc.xml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\System.Web.Helpers.xml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\System.Web.Mvc.xml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\System.Web.Razor.xml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\System.Web.WebPages.xml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\obj\Debug\WebUi.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\EntityFramework.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\EntityFramework.SqlServer.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\EntityFramework.xml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Project1\FirstShop1\WebUi\bin\EntityFramework.SqlServer.xml
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\WebUi.dll.config
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\WebUi.dll
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\WebUi.pdb
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\Castle.Core.dll
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\Domain.dll
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\EntityFramework.dll
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\EntityFramework.SqlServer.dll
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\Microsoft.Web.Infrastructure.dll
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\Moq.dll
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\Ninject.dll
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\Ninject.Web.Common.dll
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\Ninject.Web.Mvc.dll
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\System.Web.Helpers.dll
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\System.Web.Mvc.dll
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\System.Web.Razor.dll
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\System.Web.WebPages.Deployment.dll
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\System.Web.WebPages.dll
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\System.Web.WebPages.Razor.dll
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\WebActivatorEx.dll
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\Domain.pdb
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\Castle.Core.xml
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\EntityFramework.xml
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\EntityFramework.SqlServer.xml
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\Moq.xml
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\Ninject.xml
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\Ninject.Web.Common.xml
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\Ninject.Web.Mvc.xml
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\System.Web.Helpers.xml
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\System.Web.Mvc.xml
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\System.Web.Razor.xml
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\System.Web.WebPages.xml
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\System.Web.WebPages.Deployment.xml
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\bin\System.Web.WebPages.Razor.xml
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\obj\Debug\WebUi.csprojResolveAssemblyReference.cache
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\obj\Debug\WebUi.dll
+E:\PROGRAM\C#\Видео\Новая папка\Project\FirstShop1\WebUi\obj\Debug\WebUi.pdb
